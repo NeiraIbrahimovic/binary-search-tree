@@ -1,0 +1,11 @@
+{
+  "project": "binary-search-tree",
+  "compile_exit": 0,
+  "test_exit": 0,
+  "passed": [
+    "7"
+  ],
+  "failed": [
+    "0"
+  ]
+}
